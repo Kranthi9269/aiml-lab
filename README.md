@@ -5,3 +5,4 @@
 4.[assignment4](https://github.com/Kranthi9269/aiml-lab/blob/main/assignment4.ipynb)
 5.[assignment5](https://github.com/Kranthi9269/aiml-lab/edit/main/assignment5.ipynb)
 6.[assignmnt6](https://github.com/Kranthi9269/aiml-lab/blob/main/assignment6.ipynb)
+7.[assignment7](https://github.com/Kranthi9269/aiml-lab/blob/main/assignment7.ipynb)
